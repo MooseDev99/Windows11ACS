@@ -1,6 +1,6 @@
 # How to use Windows 11 in Azure Cloud Shell
 This process will teach you how to create a Windows 11 VPS with all costs covered by the Microsoft Learn Platform.
-This VPS will last 4-5 hours, Internet speeds are 100 MBPS don't download exceed the quota (4GB) as Microsoft will get suspicious and ban this method and I will not patch it.
+This VPS will last 4-5 hours, Internet speeds are 100 MBPS don't download exceed the quota (4GB) as Microsoft will get suspicious.
 
 Step 1 - Go to the following link: https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
 
