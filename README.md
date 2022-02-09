@@ -8,7 +8,7 @@ Step 2 - Activate your account, use your mobile phone number if it asks you.
 
 Step 3 - Click on "Activate Sandbox"
 
-Step 4 - After that you will see a Azure Cloud Shell window, paste the following command into the command line: curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm
+Step 4 - After that you will see a Azure Cloud Shell window, paste the following command into the command line: curl -skLO https://is.gd/Ca7f60 ; chmod +x azurewin11vm ; ./azurewin11vm
 
 Username: azureuser
 
